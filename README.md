@@ -1,10 +1,10 @@
 <h1 align="center">Уведомления</h1>
 
-<p align="center">Системный аддон <a href="https://github.com/ymdmod/ymdmod">YMDMod</a>: всплывающие уведомления внутри Яндекс Музыки.</p>
+<p align="center">Системный аддон <a href="https://github.com/YMDMod/YMDMod">YMDMod</a>: всплывающие уведомления внутри Яндекс Музыки.</p>
 
 <p align="center">
-  <a href="https://github.com/ymdmod/notifications/releases/latest"><img src="https://img.shields.io/github/v/release/ymdmod/notifications?label=версия" alt="Версия"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/ymdmod/notifications?label=лицензия" alt="Лицензия"></a>
+  <a href="https://github.com/YMDMod/notifications/releases/latest"><img src="https://img.shields.io/github/v/release/YMDMod/notifications?label=версия" alt="Версия"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/YMDMod/notifications?label=лицензия" alt="Лицензия"></a>
 </p>
 
 ---
