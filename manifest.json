@@ -1,9 +1,9 @@
 {
   "id": "notifications",
   "name": "Уведомления",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "Показывает сообщения мода и аддонов внутри клиента.",
-  "modVersions": [">=0.1.0 <1.0.0"],
+  "modVersions": [">=0.2.0 <1.0.0"],
   "settings": [
     { "key": "duration", "type": "number", "label": "Сколько секунд показывать", "default": 4 },
     {
